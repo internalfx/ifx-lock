@@ -1,0 +1,19 @@
+{
+  "name": "ifx-lock",
+  "version": "1.0.0",
+  "description": "A simple promise based locking mechanism.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/internalfx/ifx-lock.git"
+  },
+  "author": "Bryan Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/internalfx/ifx-lock/issues"
+  },
+  "homepage": "https://github.com/internalfx/ifx-lock#readme"
+}
